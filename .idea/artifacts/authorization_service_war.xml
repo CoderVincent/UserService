@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="authorization-service:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="authorization-service.war">
+      <element id="artifact" artifact-name="authorization-service:war exploded" />
+    </root>
+  </artifact>
+</component>
